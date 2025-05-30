@@ -1,4 +1,4 @@
-## 👋 Salam, mən İlqaram!
+## 👋 Salam, mən İlqar!
 
 **Back-end developer** olmağa və proqramlaşdırma dünyasında inkişaf etməyə çalışıram. Hal-hazırda əsasən **Python** və **Django** ilə işləyir, praktiki layihələr üzərində biliklərimi dərinləşdirirəm. 
 
