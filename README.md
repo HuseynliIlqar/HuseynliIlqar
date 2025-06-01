@@ -6,7 +6,7 @@
 
 ### 🛠 Bacarıqlar və Texnologiyalar
 
-- **Dillər:** Python (əsas), C (başlanğıc səviyyə), HTML & CSS (Front-End-ə giriş)
+- **Dillər:** Python (əsas), HTML & CSS (Front-End-ə giriş)
 - **Framework-lər:** Django (Back-End), FastAPI (API development üçün öyrənirəm)
 - **Alətlər:** Git, Postman, VS Code, Linux (əsas komandalar)
 - **Digər:** REST API, JSON, Web Scraping, Algoritmik Düşüncə
