@@ -42,8 +42,7 @@
 ### 📫 Mənimlə əlaqə
 
 - **Email:** huseynilqarr@gmail.com
-- **LinkedIn:** [linkedin.com/in/ilqarhuseynli](#) *(əgər varsa)*
-- **Telegram:** [@Hilqarr](#) *(əgər varsa)*
+- **Telegram:** [@Hilqarr](#)
 
 ---
 
