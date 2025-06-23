@@ -42,7 +42,7 @@
 ### 📫 Mənimlə əlaqə
 
 - **Email:** huseynilqarr@gmail.com
-- **Telegram:** [@Hilqarr](#)
+- **Telegram:** [@Hilqarr](https://t.me/Hilqarr)
 
 ---
 
