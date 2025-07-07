@@ -1,52 +1,55 @@
-## 👋 Salam, mən İlqar!
-
-**Back-end developer** olmağa və proqramlaşdırma dünyasında inkişaf etməyə çalışıram. Hal-hazırda əsasən **Python** və **Django** ilə işləyir, praktiki layihələr üzərində biliklərimi dərinləşdirirəm. 
 
 ---
 
-### 🛠 Bacarıqlar və Texnologiyalar
+## 👋 Hi, I'm Ilqar!
 
-- **Dillər:** Python (əsas), HTML & CSS (Front-End-ə giriş)
-- **Framework-lər:** Django (Back-End), FastAPI (API development üçün öyrənirəm)
-- **Alətlər:** Git, Postman, VS Code, Linux (əsas komandalar)
-- **Digər:** REST API, JSON, Web Scraping, Algoritmik Düşüncə
+I'm working towards becoming a **Back-end Developer** and improving myself in the world of programming. Currently, I mainly work with **Python** and **Django**, deepening my knowledge through hands-on projects.
 
 ---
 
-### 📚 Hazırda Öyrəndiklərim
+### 🛠 Skills & Technologies
 
-- **Back-End Development** – Django və FastAPI
-- **Front-End əsasları** – HTML və CSS, gələcəkdə React və Flutter
-- **API-lərlə işləmək** – RESTful API-lər, authentication, sınaq üçün Postman
-- **Praktiki layihələr:**  
-    - Online kurs platforması (Django)
-    - Satış və anbar idarəetmə sistemi (Django + React)
+* **Languages:** Python (main), HTML & CSS (Intro to Front-End)
+* **Frameworks:** Django (Back-End), FastAPI (learning for API development)
+* **Tools:** Git, Postman, VS Code, Linux (basic commands)
+* **Other:** REST API, JSON, Web Scraping, Algorithmic Thinking
 
 ---
 
-### 👀 Maraqlarım
+### 📚 What I’m Currently Learning
 
-- Yeni texnologiyalar və proqramlaşdırma dilləri
-- Səsli kitab və podcast dinləmək
+* **Back-End Development** – Django and FastAPI
+* **Front-End Basics** – HTML and CSS, planning to learn React and Flutter
+* **Working with APIs** – RESTful APIs, authentication, testing with Postman
+* **Practical Projects:**
 
----
-
-### 🚀 Məqsədlərim
-
-- Praktiki biliklərimi artırmaq və real layihələrdə təcrübə qazanmaq
-- Portfolio saytımı qurmaq və açıq mənbə layihələrə töhfə vermək
-- Beynəlxalq səviyyədə proqramçı kimi inkişaf etmək
+  * Online course platform (Django)
+  * Sales and inventory management system (Django + React)
 
 ---
 
-### 📫 Mənimlə əlaqə
+### 👀 My Interests
 
-- **Email:** huseynilqarr@gmail.com
-- **Telegram:** [@Hilqarr](https://t.me/Hilqarr)
+* New technologies and programming languages
+* Listening to audiobooks and podcasts
 
 ---
 
-**Təşəkkürlər! Profilimə baxdığın üçün 🙌**
+### 🚀 My Goals
 
-<!-- Profil statistikanı və ya pin-lənmiş layihələrini əlavə edə bilərsən -->
+* Improve my practical skills and gain experience in real-world projects
+* Build my portfolio website and contribute to open source projects
+* Develop myself as an international-level software developer
 
+---
+
+### 📫 Contact Me
+
+* **Email:** [huseynilqarr@gmail.com](mailto:huseynilqarr@gmail.com)
+* **Telegram:** [@Hilqarr](https://t.me/Hilqarr)
+
+---
+
+**Thanks for visiting my profile! 🙌**
+
+---
